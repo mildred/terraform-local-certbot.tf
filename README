@@ -1,0 +1,11 @@
+certbot.tf
+==========
+
+Manages certbot locally.
+
+Requirements
+------------
+
+- [`terraform-provider-sys`](https://github.com/mildred/terraform-provider-sys)
+  needs to be manually installed until i split this provider into better suited
+  providers.
